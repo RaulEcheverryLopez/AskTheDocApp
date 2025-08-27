@@ -1,0 +1,17 @@
+
+# Python
+LLMapp/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
